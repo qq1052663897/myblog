@@ -12,7 +12,7 @@
 </head>
 <body>
     <div class="container max-auto px-4 origin-center">
-        <div class="w-24 h-24 origin-center">111-{{ env('APP_IP') }}}</div>
+        <div class="w-24 h-24 origin-center">111-{{ env('APP_IP') }}</div>
     </div>
 </body>
 </html>
